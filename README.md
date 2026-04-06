@@ -1,1 +1,1 @@
-# An-lise-de-cr-dito-de-clientes
+# Projeto de análise de crédito para verificação de risco
